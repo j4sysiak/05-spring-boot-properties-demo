@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>pl.jaceksysiak.springboot.demo</groupId>
-	<artifactId>03-spring-boot-actuator-demo</artifactId>
+	<artifactId>05-spring-boot-properties-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>04-spring-boot-commandline-demo</name>
+	<name>05-spring-boot-properties-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
